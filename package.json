@@ -1,0 +1,22 @@
+{
+  "name": "try-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1",
+    "@types/react": "^16.9.38",
+    "@types/react-dom": "^16.9.8",
+    "@types/styled-components": "^5.1.0",
+    "styled-components": "^5.1.1",
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-beta.1",
+    "vite-plugin-react": "^3.0.0"
+  }
+}
